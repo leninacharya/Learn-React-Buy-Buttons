@@ -1,0 +1,10 @@
+.la-item {
+  background-color: khaki;
+}
+.la-span {
+  font-size: 20px;
+  color: orangered;
+}
+.button {
+  float: right;
+}
